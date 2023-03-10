@@ -6,13 +6,14 @@
 #
 #
 # # Press the green button in the gutter to run the script.
+import random
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+
 if __name__ == '__main__':
 
-    # This is a sample Python script.
-    import random
-
-    import matplotlib.pyplot as plt
-    import numpy as np
 
 #
 #     # problem 1: monte carlo method to estimate pi.
